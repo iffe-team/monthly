@@ -9,10 +9,16 @@ open -a /Applications/Google\ Chrome.app --args --disable-web-security --user-da
 ```
 
 Windows下的Chrome：
-> chrome.exe --disable-web-security
+```bash
+chrome.exe --disable-web-security
+```
 
 Mac下的Safari：
-> open -a '/Applications/Safari.app' --args --disable-web-security
+```bash
+open -a '/Applications/Safari.app' --args --disable-web-security
+```
 
 Windows下的Safari：
-> C:\Program Files\Safari\Safari.exe --disable-web-security
+```bash
+C:\Program Files\Safari\Safari.exe --disable-web-security
+```
