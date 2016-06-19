@@ -8,10 +8,10 @@ open -a "Google Chrome" --args --disable-web-security
 open -a /Applications/Google\ Chrome.app --args --disable-web-security --user-data-dir
 
 Windows下的Chrome：
-chrome.exe --disable-web-security
+> chrome.exe --disable-web-security
 
 Mac下的Safari：
-open -a '/Applications/Safari.app' --args --disable-web-security
+> open -a '/Applications/Safari.app' --args --disable-web-security
 
 Windows下的Safari：
-C:\Program Files\Safari\Safari.exe --disable-web-security
+> C:\Program Files\Safari\Safari.exe --disable-web-security
